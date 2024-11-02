@@ -1840,3 +1840,153 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.02-05.25.00:411][799]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
 [2024.11.02-05.25.04:958][ 52]LogMeshUtilities: Finished distance field build in 4.5s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
 [2024.11.02-05.25.07:703][211]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.12:199][480]LogMeshUtilities: Finished distance field build in 4.5s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.14:629][625]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 41% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.19:947][849]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.24:897][ 61]LogMeshUtilities: Finished distance field build in 3.9s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 54% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.26:688][163]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x28 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 100% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.29:024][301]LogMeshUtilities: Finished distance field build in 2.3s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.31:255][437]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.34:708][643]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 65% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.37:807][825]LogMeshUtilities: Finished distance field build in 3.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 48% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.42:008][ 48]LogMeshUtilities: Finished distance field build in 4.2s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 74% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.46:280][252]LogMeshUtilities: Finished distance field build in 4.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 54% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.48:627][389]LogMeshUtilities: Finished distance field build in 2.3s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.50:556][501]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.54:319][722]LogShaderCompilers: Display: Worker (2/9) finished batch of 7 jobs in 74.784s, FRenderVolumetricCloudRenderViewCS [WorkerTime=14.357s], FRenderVolumetricCloudRenderViewCS [WorkerTime=12.124s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.860s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.167s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.756s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.206s], TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=4.197s]
+[2024.11.02-05.25.54:391][727]LogMeshUtilities: Finished distance field build in 3.8s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 74% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.56:304][841]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.25.57:136][891]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 77.615s, FRenderVolumetricCloudRenderViewCS [WorkerTime=14.648s], FRenderVolumetricCloudRenderViewCS [WorkerTime=14.411s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.642s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.293s], FRenderVolumetricCloudRenderViewCS [WorkerTime=8.145s], FRenderVolumetricCloudRenderViewCS [WorkerTime=7.100s], TVoxelizeVolumePS<VMode_Object_Box> [WorkerTime=3.478s], FRenderVolumetricCloudRenderViewCS [WorkerTime=3.285s], TVoxelizeVolumeVS<VMode_Primitive_Sphere> [WorkerTime=1.832s], FDebugViewModeVS [WorkerTime=1.426s]
+[2024.11.02-05.25.58:398][967]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.00:338][ 83]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.02:689][223]LogMeshUtilities: Finished distance field build in 2.3s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.05:010][360]LogMeshUtilities: Finished distance field build in 2.3s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 45% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.07:450][505]LogShaderCompilers: Display: Worker (7/9) finished batch of 10 jobs in 87.929s, FRenderVolumetricCloudRenderViewCS [WorkerTime=17.406s], FRenderVolumetricCloudRenderViewCS [WorkerTime=14.710s], FRenderVolumetricCloudRenderViewCS [WorkerTime=13.292s], FRenderVolumetricCloudRenderViewCS [WorkerTime=9.805s], FCloudRenderViewPS111 [WorkerTime=7.045s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.919s], FDebugViewModePS [WorkerTime=6.210s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=5.931s], FVolumetricCloudShadowPS [WorkerTime=5.249s], TVoxelizeVolumeGS<VMode_Object_Box> [WorkerTime=1.068s]
+[2024.11.02-05.26.07:489][507]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.09:471][604]LogShaderCompilers: Display: Worker (9/9) finished batch of 10 jobs in 89.950s, FRenderVolumetricCloudRenderViewCS [WorkerTime=14.692s], FRenderVolumetricCloudRenderViewCS [WorkerTime=12.840s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.091s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.576s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.054s], FRenderVolumetricCloudRenderViewCS [WorkerTime=9.072s], FRenderVolumetricCloudRenderViewCS [WorkerTime=7.070s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.422s], FRenderVolumetricCloudRenderViewCS [WorkerTime=4.428s], FCloudRenderViewPS001 [WorkerTime=3.342s]
+[2024.11.02-05.26.11:431][695]LogMeshUtilities: Finished distance field build in 3.9s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.14:434][869]LogMeshUtilities: Finished distance field build in 2.9s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.16:540][995]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.18:554][115]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 56% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.19:433][168]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 99.912s, FRenderVolumetricCloudRenderViewCS [WorkerTime=16.010s], FRenderVolumetricCloudRenderViewCS [WorkerTime=15.229s], FRenderVolumetricCloudRenderViewCS [WorkerTime=15.002s], FRenderVolumetricCloudRenderViewCS [WorkerTime=13.360s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.552s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.431s], FRenderVolumetricCloudRenderViewCS [WorkerTime=7.773s], FRenderVolumetricCloudRenderViewCS [WorkerTime=4.918s], FRenderVolumetricCloudRenderViewCS [WorkerTime=4.561s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=1.793s]
+[2024.11.02-05.26.19:980][189]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 42% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.21:997][310]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.24:282][447]LogMeshUtilities: Finished distance field build in 2.3s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 68% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.25:613][527]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.28:330][690]LogMeshUtilities: Finished distance field build in 2.7s - 126x126x126 sparse distance field, 2.7Mb total, 0.1Mb always loaded, 79% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.30:089][796]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.32:939][967]LogMeshUtilities: Finished distance field build in 2.8s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.34:455][ 58]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.36:467][178]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.37:742][255]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.39:417][355]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.40:794][438]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.42:237][525]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.43:819][619]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.45:444][717]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.47:161][820]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 51% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.48:620][907]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.50:464][ 18]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.52:444][137]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 59% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.54:883][283]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.56:225][364]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.57:971][468]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.26.59:227][544]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.27.00:739][635]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.27.02:158][720]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.27.03:532][802]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.27.04:979][889]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.27.06:700][989]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 51% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.27.08:899][ 78]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 67% occupied, 10 triangles, StaticMesh_HLOD0_Instancing_1
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: ================================================
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Total job queries 7,529, among them cache hits 4 (0.05%), DDC hits 0 (0.00%), Duplicates 1,330 (17.67%)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Tracking 6,195 distinct input hashes that result in 5,663 distinct outputs (91.41%)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: RAM used: 49.60 MiB of 819.20 MiB budget. Usage: 6.05%
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Shaders Compiled: 6,195
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Jobs assigned 6,195, completed 6,195 (100%)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Average time worker was idle: 3.12 s
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Time job spent in pending queue: average 228.71 s, longest 653.06 s
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Job execution time: average 13.82 s, max 496.89 s
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Job life time (pending + execution): average 242.52 s, max 985.40
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Shader code size: average 29.07 KiB, min 403 B, max 378.275 KiB
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1212.80 s
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  2.88%
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Jobs were issued in 696 batches (only local compilation was used), average 8.90 jobs/batch
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Average processing rate: 5.11 jobs/sec
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Total thread time: 8,757.133 s
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Total thread preprocess time: 142.169 s
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Percentage time preprocessing: 1.62%
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Effective parallelization: 7.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   24 times, average 96.03 sec, max 241.37 sec, min 6.48 sec)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    9 times, average 43.02 sec, max 54.89 sec, min 12.61 sec)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 13.74 sec, max 13.74 sec, min 13.74 sec)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 11.50 sec, max 11.50 sec, min 11.50 sec)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   16 times, average 11.29 sec, max 22.66 sec, min 2.18 sec)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 26.32% of total time (compiled   24 times, average 96.03 sec, max 241.37 sec, min 6.48 sec)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.87% of total time (compiled   68 times, average 10.13 sec, max 17.41 sec, min 3.28 sec)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.65% of total time (compiled  262 times, average 2.22 sec, max 3.20 sec, min 1.24 sec)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS - 4.42% of total time (compiled    9 times, average 43.02 sec, max 54.89 sec, min 12.61 sec)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.51% of total time (compiled  256 times, average 1.20 sec, max 2.04 sec, min 0.74 sec)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: === Material stats ===
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Materials Translated:    119
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Material Translation Only: 0.04 s (44%)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.11.02-05.27.39:831][600]LogShaderCompilers: Display: ================================================
+[2024.11.02-05.27.41:703][713]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.02-05.27.41:719][713]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.02-05.27.41:750][714]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.02-05.27.49:552][161]LogContentBrowser: Attempting asset rename: NewFolder -> levels
+[2024.11.02-05.27.49:552][161]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.02-05.28.33:737][217]LogTexture: Display: Building textures: /Engine/Maps/Templates/Thumbnails/OpenWorld.OpenWorld (BGRA8, 200x200 x1x1x1) (Required Memory Estimate: 1.232334 MB), EncodeSpeed: Fast
+[2024.11.02-05.28.33:741][217]LogTexture: Display: Building textures: /Engine/Maps/Templates/Thumbnails/Basic.Basic (BGRA8, 200x200 x1x1x1) (Required Memory Estimate: 1.232334 MB), EncodeSpeed: Fast
+[2024.11.02-05.28.39:223][217]LogSlate: Window 'New Level' being destroyed
+[2024.11.02-05.28.39:271][217]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.02-05.28.39:290][217]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.02-05.28.39:291][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-05.28.39:291][217]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2024.11.02-05.28.39:293][217]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.11.02-05.28.39:294][217]LogWorldMetrics: [Deinitialize]
+[2024.11.02-05.28.39:294][217]LogWorldMetrics: [Clear]
+[2024.11.02-05.28.39:298][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.02-05.28.39:319][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.02-05.28.39:327][217]LogStaticMesh: Display: Building static mesh SM_Template_Map_Floor (Required Memory Estimate: 0.159396 MB)...
+[2024.11.02-05.28.39:327][217]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2024.11.02-05.28.39:327][217]LogWorldMetrics: [Initialize]
+[2024.11.02-05.28.39:329][217]LogStaticMesh: Built static mesh [0.00s] /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2024.11.02-05.28.39:351][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.02-05.28.39:357][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.11.02-05.28.39:358][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.02-05.28.39:358][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.058ms to complete.
+[2024.11.02-05.29.01:407][691]LogSlate: Window 'Save Level As' being destroyed
+[2024.11.02-05.29.02:343][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/L1" FILE="../../../../Gameoff24/Gameoff24/Content/levels/L1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.11.02-05.29.02:355][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.11.02-05.29.02:366][691]LogSavePackage: Moving output files for package: /Game/levels/L1
+[2024.11.02-05.29.02:366][691]LogSavePackage: Moving '../../../../Gameoff24/Gameoff24/Saved/L1CF4DD7F5C0554BDD970DC73A745DC680.tmp' to '../../../../Gameoff24/Gameoff24/Content/levels/L1.umap'
+[2024.11.02-05.29.02:419][691]LogFileHelpers: Saving map 'L1' took 0.902
+[2024.11.02-05.29.02:419][691]Cmd: MAP LOAD FILE="../../../../Gameoff24/Gameoff24/Content/levels/L1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.11.02-05.29.02:425][691]LogWorld: UWorld::CleanupWorld for L1, bSessionEnded=true, bCleanupResources=true
+[2024.11.02-05.29.02:425][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.02-05.29.02:425][691]LogWorldMetrics: [Deinitialize]
+[2024.11.02-05.29.02:425][691]LogWorldMetrics: [Clear]
+[2024.11.02-05.29.02:435][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.02-05.29.02:437][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.11.02-05.29.02:441][691]LogAudio: Display: Audio Device (ID: 1) registered with world 'L1'.
+[2024.11.02-05.29.02:441][691]LogWorldMetrics: [Initialize]
+[2024.11.02-05.29.02:469][691]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.02-05.29.02:480][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.11.02-05.29.02:482][691]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.02-05.29.02:482][691]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2024.11.02-05.29.02:603][691]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.02-05.29.02:603][691]LogContentValidation: Enabled validators:
+[2024.11.02-05.29.02:603][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.02-05.29.02:603][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.02-05.29.02:603][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.02-05.29.02:603][691]LogContentValidation: Display: Validating asset /Game/levels/L1.L1
+[2024.11.02-05.29.02:603][691]AssetCheck: /Game/levels/L1 Validating asset
