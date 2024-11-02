@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/home/jay/Documents/Gameoff24/Gameoff24/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+			]
+		}
+	]
+}
