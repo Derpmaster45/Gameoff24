@@ -1990,3 +1990,170 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.02-05.29.02:603][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.11.02-05.29.02:603][691]LogContentValidation: Display: Validating asset /Game/levels/L1.L1
 [2024.11.02-05.29.02:603][691]AssetCheck: /Game/levels/L1 Validating asset
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: ================================================
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Total job queries 7,539, among them cache hits 6 (0.08%), DDC hits 0 (0.00%), Duplicates 1,330 (17.64%)
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Tracking 6,203 distinct input hashes that result in 5,669 distinct outputs (91.39%)
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: RAM used: 49.62 MiB of 819.20 MiB budget. Usage: 6.06%
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Shaders Compiled: 6,203
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Jobs assigned 6,203, completed 6,203 (100%)
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Average time worker was idle: 4.74 s
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Time job spent in pending queue: average 228.41 s, longest 653.06 s
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Job execution time: average 13.80 s, max 496.89 s
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Job life time (pending + execution): average 242.21 s, max 985.40
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Shader code size: average 29.044 KiB, min 403 B, max 378.275 KiB
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1214.92 s
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  2.88%
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Jobs were issued in 704 batches (only local compilation was used), average 8.81 jobs/batch
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Average processing rate: 5.11 jobs/sec
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Total thread time: 8,766.51 s
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Total thread preprocess time: 142.333 s
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Percentage time preprocessing: 1.62%
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Effective parallelization: 7.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   24 times, average 96.03 sec, max 241.37 sec, min 6.48 sec)
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    9 times, average 43.02 sec, max 54.89 sec, min 12.61 sec)
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 13.74 sec, max 13.74 sec, min 13.74 sec)
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 11.50 sec, max 11.50 sec, min 11.50 sec)
+[2024.11.02-05.30.39:890][394]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   16 times, average 11.29 sec, max 22.66 sec, min 2.18 sec)
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 26.29% of total time (compiled   24 times, average 96.03 sec, max 241.37 sec, min 6.48 sec)
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.86% of total time (compiled   68 times, average 10.13 sec, max 17.41 sec, min 3.28 sec)
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.64% of total time (compiled  262 times, average 2.22 sec, max 3.20 sec, min 1.24 sec)
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS - 4.42% of total time (compiled    9 times, average 43.02 sec, max 54.89 sec, min 12.61 sec)
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.51% of total time (compiled  256 times, average 1.20 sec, max 2.04 sec, min 0.74 sec)
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display: === Material stats ===
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display: Materials Translated:    120
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display: Material Translation Only: 0.04 s (44%)
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.11.02-05.30.39:891][394]LogShaderCompilers: Display: ================================================
+[2024.11.02-05.31.35:406][634]LogSlate: Window 'Revision Control Login' being destroyed
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:422][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.14:423][697]SourceControl: Error: fatal: not a git repository (or any of the parent directories): .git
+[2024.11.02-05.32.25:770][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.25:800][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.25:826][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.25:859][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.25:893][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.25:926][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.25:959][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.25:993][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:027][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:060][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:093][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:126][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:159][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:193][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:227][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:259][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:293][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:326][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:359][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:392][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:426][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:459][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:492][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:526][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:559][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:592][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:626][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:659][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:693][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:726][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.26:759][353]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.11.02-05.32.40:343][159]LogSlate: Window 'View Changes' being destroyed
+[2024.11.02-05.32.40:371][159]LogSlate: Window 'View Changes' being destroyed
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: ================================================
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Total job queries 7,551, among them cache hits 14 (0.19%), DDC hits 0 (0.00%), Duplicates 1,332 (17.64%)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Tracking 6,205 distinct input hashes that result in 5,671 distinct outputs (91.39%)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: RAM used: 49.62 MiB of 819.20 MiB budget. Usage: 6.06%
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Shaders Compiled: 6,205
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Jobs assigned 6,205, completed 6,205 (100%)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Average time worker was idle: 5.56 s
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Time job spent in pending queue: average 228.34 s, longest 653.06 s
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Job execution time: average 13.80 s, max 496.89 s
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Job life time (pending + execution): average 242.14 s, max 985.40
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Shader code size: average 29.037 KiB, min 403 B, max 378.275 KiB
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1216.15 s
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  2.88%
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Jobs were issued in 706 batches (only local compilation was used), average 8.79 jobs/batch
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Average processing rate: 5.10 jobs/sec
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Total thread time: 8,768.244 s
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Total thread preprocess time: 142.528 s
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Percentage time preprocessing: 1.63%
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Effective parallelization: 7.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   24 times, average 96.03 sec, max 241.37 sec, min 6.48 sec)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    9 times, average 43.02 sec, max 54.89 sec, min 12.61 sec)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 13.74 sec, max 13.74 sec, min 13.74 sec)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 11.50 sec, max 11.50 sec, min 11.50 sec)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   16 times, average 11.29 sec, max 22.66 sec, min 2.18 sec)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 26.28% of total time (compiled   24 times, average 96.03 sec, max 241.37 sec, min 6.48 sec)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.86% of total time (compiled   68 times, average 10.13 sec, max 17.41 sec, min 3.28 sec)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.64% of total time (compiled  262 times, average 2.22 sec, max 3.20 sec, min 1.24 sec)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS - 4.42% of total time (compiled    9 times, average 43.02 sec, max 54.89 sec, min 12.61 sec)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.51% of total time (compiled  256 times, average 1.20 sec, max 2.04 sec, min 0.74 sec)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: === Material stats ===
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Materials Translated:    120
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Material Translation Only: 0.04 s (44%)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.11.02-05.33.39:896][631]LogShaderCompilers: Display: ================================================
